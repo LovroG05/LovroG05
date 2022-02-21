@@ -5,7 +5,7 @@
 
 > student of Vegova Gimnazija Ljubljana - module Računalništvo, year 2
 
-> currently working on buscloud and [memereel](https://memereel.xyz/) with [@chocoearly44](https://github.com/chocoearly44)
+> currently working on ClassCompanion and zabar
 
 > learning Kotlin, and many other things
 
