@@ -3,11 +3,11 @@
 
 ## About me
 
-> student of Vegova Gimnazija Ljubljana - module Računalništvo, year 2
+> student of Vegova Gimnazija Ljubljana - module Računalništvo, year 3
 
-> currently working on ClassCompanion and zabar
+> currently working on znanje.tk
 
-> learning Kotlin, and many other things
+> learning many things
 
 
 
